@@ -1,0 +1,4 @@
+The application.json file is not in use. All necessary information is entered directly inside program.cs.
+
+This application will find the Medicinal Product Form and Medicinal Product which has a relationship to the therapeutic substance without modifications. It is a test,
+and this code should not be used for dose-based prescription without further QA.
